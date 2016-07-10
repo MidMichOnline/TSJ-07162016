@@ -1,4 +1,4 @@
-# SUMMARY
+# Contents
 
 [Shepherd Police Department](shepherd-police-department)
 * [Shepherd Police Department News](shepherd-police-department/shepherdpolicedept.txt)
