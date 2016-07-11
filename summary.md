@@ -4,7 +4,7 @@
 * [Shepherd Police Department News](shepherd-police-department/shepherdpolicedept.txt)
 * [Women's Self-Defense Seminar](shepherd-police-department/womens-self-defense-seminar.txt)
 
-###[Shepherd High School Baseball](shepherd-high-school-baseball)
+###[Shepherd High School Baseball](shepherd-high-school-baseball/_title.md)
 * [2nd Annual Aumni Game scheduled for August 28](shepherd-high-school-baseball/2ndannualalumnigame.txt)
 
 
