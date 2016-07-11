@@ -1,2 +1,0 @@
-* [Shepherd Police Department News](shepherd-police-department/shepherdpolicedept.txt)
-* [Women's Self-Defense Seminar](shepherd-police-department/womens-self-defense-seminar.txt)
