@@ -1,6 +1,6 @@
 # Contents
 ##July 10, 2016
-###[Shepherd Police Department](shepherd-police-department)
+###[Shepherd Police Department](police.md)
 * [Shepherd Police Department News](shepherd-police-department/shepherdpolicedept.txt)
 * [Women's Self-Defense Seminar](shepherd-police-department/womens-self-defense-seminar.txt)
 
